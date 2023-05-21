@@ -1,4 +1,6 @@
-# web
+# WEB
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <b>leon.py</b> - парсер букмекера leon.ru<br>
 <b>olimp_com.py</b> - парсер офшорного букмекера olimp.com<br>
